@@ -8,6 +8,8 @@ header{
 border-bottom: solid 2px rgb(242, 240, 240);
 padding: 20px ;
 font-size: 26px ;
+text-align: center;
+font-weight: bold;
 color: (204, 20, 232, 0.725 );
 }
 section {
